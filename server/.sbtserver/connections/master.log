@@ -1,0 +1,10 @@
+New log file opened at Thu Jun 30 10:52:11 BRT 2016 by 14520@localhost.localdomain
+Taking next connection to: 35733
+New client attempting to connect on port: 38106-35733
+  Address = /127.0.0.1:35733
+This client on port 38106 has uuid 021b6825-8179-42f7-a8bc-77de0c622162 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-021b6825-8179-42f7-a8bc-77de0c622162
+Taking next connection to: 35733
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35733
